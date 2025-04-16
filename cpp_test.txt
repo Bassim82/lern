@@ -1,0 +1,139 @@
+1. Welcher Datentyp wird verwendet, um eine Ganzzahl in C++ zu speichern?
+1) float
+2) string
+3) int
+4) char
+Antwort: 3
+
+2. Welche Schleife wird verwendet, wenn die Anzahl der Wiederholungen nicht im Voraus bekannt ist?
+1) for
+2) while
+3) do
+4) loop
+Antwort: 2
+
+3. Wie beginnt ein C++-Programm üblicherweise?
+1) void main()
+2) program()
+3) int start()
+4) int main()
+Antwort: 4
+
+4. Wie kommentiert man eine einzelne Zeile in C++?
+1) # Kommentar
+2) // Kommentar
+3) -- Kommentar
+4) /* Kommentar */
+Antwort: 2
+
+5. Was ist das Ergebnis von 5 / 2 in C++ mit Ganzzahlen?
+1) 2.5
+2) 3
+3) 2
+4) 0
+Antwort: 3
+
+6. Welcher Header wird benötigt, um `cout` zu verwenden?
+1) <cstdio>
+2) <iostream>
+3) <string>
+4) <math.h>
+Antwort: 2
+
+7. Welche Anweisung beendet eine Schleife sofort?
+1) exit
+2) stop
+3) break
+4) continue
+Antwort: 3
+
+8. Was ist ein korrektes Schlüsselwort für eine Bedingung?
+1) then
+2) if
+3) when
+4) cond
+Antwort: 2
+
+9. Wie definiert man eine Konstante in C++?
+1) constant x = 5;
+2) const int x = 5;
+3) define x = 5;
+4) final x = 5;
+Antwort: 2
+
+10. Was bedeutet `cin` in C++?
+1) Eine Schleife
+2) Eine Bedingung
+3) Eingabe vom Benutzer
+4) Eine Funktion
+Antwort: 3
+
+11. Wie wird ein Array in C++ deklariert?
+1) int arr[5];
+2) int arr(5);
+3) arr = int[5];
+4) array int[5];
+Antwort: 1
+
+12. Was ist der Rückgabewert von `main()` in C++?
+1) void
+2) int
+3) string
+4) double
+Antwort: 2
+
+13. Was passiert, wenn man auf ein nicht initialisiertes Array in C++ zugreift?
+1) Es gibt einen Fehler
+2) Es wird eine zufällige Zahl angezeigt
+3) Der Wert ist immer 0
+4) Der Wert wird ignoriert
+Antwort: 2
+
+14. Welcher Operator wird verwendet, um eine Referenz in C++ zu erzeugen?
+1) &
+2) *
+3) #
+4) %
+Antwort: 1
+
+15. Wie wird eine Klasse in C++ definiert?
+1) class MyClass {};
+2) class MyClass() {};
+3) MyClass {};
+4) class MyClass() { };
+Antwort: 1
+
+16. Welche der folgenden Funktionen gibt den Wert 0 zurück, wenn keine Fehler auftreten?
+1) exit()
+2) return 0;
+3) break;
+4) stop();
+Antwort: 2
+
+17. Was passiert, wenn man in C++ mit einer Division durch Null versucht?
+1) Es gibt einen Fehler
+2) Das Ergebnis ist unendlich
+3) Das Programm wird beendet
+4) Es gibt keine Auswirkungen
+Antwort: 1
+
+18. Wie gibt man etwas in C++ aus?
+1) printf()
+2) print()
+3) display()
+4) cout <<
+Antwort: 4
+
+19. Welche der folgenden Anweisungen ist eine gültige Deklaration eines Zeigers?
+1) int* ptr;
+2) int ptr*;
+3) ptr int*;
+4) int ptr[];
+Antwort: 1
+
+20. Wie lautet die richtige Syntax, um eine Funktion in C++ zu deklarieren?
+1) function void myFunction() {};
+2) void myFunction() {};
+3) void myFunction() { }
+4) myFunction() void {};
+Antwort: 2

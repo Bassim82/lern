@@ -1,0 +1,139 @@
+1. Wie beginnt ein PHP-Skript?
+1) <?php
+2) <php?
+3) php{
+4) start php
+Antwort: 1
+
+2. Wie kommentiert man eine Zeile in PHP?
+1) //
+2) #
+3) /*
+4) Alle oben genannten
+Antwort: 4
+
+3. Welcher Operator wird verwendet, um zwei Strings zu verbinden?
+1) +
+2) .
+3) &
+4) ::
+Antwort: 2
+
+4. Wie wird eine Variable in PHP deklariert?
+1) var name = "Max";
+2) $name = "Max";
+3) name := "Max";
+4) let name = "Max";
+Antwort: 2
+
+5. Welche Funktion gibt Text aus?
+1) write()
+2) echo
+3) display()
+4) output()
+Antwort: 2
+
+6. Wie prüft man, ob zwei Werte gleich sind?
+1) =
+2) ==
+3) !=
+4) =
+Antwort: 2
+
+7. Welche Superglobale enthält Formular-Daten per POST?
+1) $_GET
+2) $_DATA
+3) $_POST
+4) $_FORM
+Antwort: 3
+
+8. Welche Schleife gibt es in PHP?
+1) repeat
+2) until
+3) for
+4) each
+Antwort: 3
+
+9. Wie beginnt eine if-Bedingung in PHP?
+1) if x > 5 then:
+2) if (x > 5)
+3) wenn x > 5
+4) x > 5 then
+Antwort: 2
+
+10. Was bedeutet `isset()`?
+1) Prüft ob Variable gelöscht ist
+2) Prüft ob Variable existiert und nicht null ist
+3) Erstellt eine neue Variable
+4) Wandelt Variable in String
+Antwort: 2
+
+11. Wie öffnet man eine Datei zum Lesen?
+1) fopen("datei.txt", "r");
+2) open("datei.txt");
+3) read("datei.txt");
+4) file("datei.txt", "open");
+Antwort: 1
+
+12. Was macht `include` in PHP?
+1) Ignoriert Code
+2) Führt eine andere Datei aus
+3) Beendet das Skript
+4) Öffnet ein Fenster
+Antwort: 2
+
+13. Was ist `NULL` in PHP?
+1) 0
+2) false
+3) Kein Wert
+4) Leerer String
+Antwort: 3
+
+14. Wie definiert man ein Array?
+1) array = {1, 2, 3};
+2) $array = [1, 2, 3];
+3) $array = array(1, 2, 3);
+4) Beide 2 und 3 sind korrekt
+Antwort: 4
+
+15. Welche Funktion zählt die Elemente in einem Array?
+1) total()
+2) length()
+3) count()
+4) size()
+Antwort: 3
+
+16. Was macht `foreach`?
+1) Eine Funktion aufrufen
+2) Über ein Array iterieren
+3) Datei öffnen
+4) Objekt löschen
+Antwort: 2
+
+17. Welche Datei-Endung gehört zu PHP?
+1) .html
+2) .ph
+3) .php
+4) .psp
+Antwort: 3
+
+18. Welche Version von PHP ist die aktuellste? *(Stand 2024)*
+1) 5.6
+2) 7.4
+3) 8.1
+4) 8.3
+Antwort: 4
+
+19. Wie erstellt man eine Funktion?
+1) function myFunc() {}
+2) def myFunc() {}
+3) new function myFunc() {}
+4) func myFunc() {}
+Antwort: 1
+
+20. Was ist ein Cookie?
+1) Ein PHP-Datentyp
+2) Eine Datei
+3) Eine Benutzersitzung
+4) Kleine Textinformation im Browser
+Antwort: 4

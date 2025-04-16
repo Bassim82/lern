@@ -1,0 +1,139 @@
+1. Wie beginnt man einen Kommentar in Python?
+1) //
+2) #
+3) /*
+4) --
+Antwort: 2
+
+2. Welcher Datentyp wird für Dezimalzahlen verwendet?
+1) int
+2) float
+3) bool
+4) str
+Antwort: 2
+
+3. Was ist der korrekte Weg, um eine Funktion in Python zu definieren?
+1) function myFunc():
+2) def myFunc():
+3) func myFunc {}
+4) define myFunc():
+Antwort: 2
+
+4. Wie gibt man etwas auf dem Bildschirm aus?
+1) show()
+2) print()
+3) display()
+4) echo()
+Antwort: 2
+
+5. Wie speichert man eine Zeichenkette?
+1) name = string("Max")
+2) name = 'Max'
+3) string name = Max
+4) name <- "Max"
+Antwort: 2
+
+6. Was ist das Ergebnis von 10 // 3?
+1) 3.33
+2) 3
+3) 0
+4) 1
+Antwort: 2
+
+7. Was ist der Zweck von `if` in Python?
+1) Eine Schleife starten
+2) Eine Bedingung prüfen
+3) Eine Funktion definieren
+4) Einen Fehler anzeigen
+Antwort: 2
+
+8. Welcher Ausdruck erzeugt eine Liste?
+1) (1, 2, 3)
+2) {1, 2, 3}
+3) [1, 2, 3]
+4) <1, 2, 3>
+Antwort: 3
+
+9. Wie wiederholt man Code 5-mal?
+1) for i in 5:
+2) for i in range(5):
+3) loop 5:
+4) repeat 5 times:
+Antwort: 2
+
+10. Was bedeutet `None` in Python?
+1) Eine leere Liste
+2) Ein Fehler
+3) Kein Wert
+4) Null als Zahl
+Antwort: 3
+
+11. Was macht `len()`?
+1) Gibt eine zufällige Zahl zurück
+2) Gibt den Typ einer Variable zurück
+3) Gibt die Länge eines Objekts zurück
+4) Konvertiert eine Zahl
+Antwort: 3
+
+12. Wie definiert man ein Dictionary?
+1) ["key": "value"]
+2) {"key": "value"}
+3) ("key", "value")
+4) <"key" = "value">
+Antwort: 2
+
+13. Welcher Operator prüft Gleichheit?
+1) =
+2) ==
+3) !=
+4) :=
+Antwort: 2
+
+14. Wie importiert man ein Modul in Python?
+1) include math
+2) use math
+3) import math
+4) load math
+Antwort: 3
+
+15. Was ist ein Tuple?
+1) Eine veränderbare Liste
+2) Ein Schlüssel-Wert-Paar
+3) Eine unveränderbare Liste
+4) Eine Zeichenkette
+Antwort: 3
+
+16. Wie kann man eine Datei öffnen?
+1) open.file("text.txt")
+2) file.open("text.txt")
+3) open("text.txt")
+4) read("text.txt")
+Antwort: 3
+
+17. Was macht `break` in einer Schleife?
+1) Springt zur nächsten Schleife
+2) Ignoriert die Schleife
+3) Beendet die Schleife sofort
+4) Pausiert die Schleife
+Antwort: 3
+
+18. Was gibt `type(123)` zurück?
+1) "int"
+2) int
+3) <class 'int'>
+4) number
+Antwort: 3
+
+19. Wie wird eine Exception behandelt?
+1) try / fix
+2) try / solve
+3) try / catch
+4) try / except
+Antwort: 4
+
+20. Was ist `True` in Python?
+1) Ein String
+2) Ein Datentyp
+3) Ein boolescher Wert
+4) Ein Funktionsname
+Antwort: 3

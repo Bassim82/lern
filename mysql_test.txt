@@ -1,0 +1,139 @@
+1. Wofür steht SQL?
+1) Simple Query Language  
+2) Structured Query Language  
+3) Sequential Question Language  
+4) Server Query Logic  
+Antwort: 2
+
+2. Welcher Befehl wird verwendet, um Daten aus einer Tabelle zu lesen?
+1) READ  
+2) GET  
+3) SELECT  
+4) OPEN  
+Antwort: 3
+
+3. Wie fügt man Daten in eine Tabelle ein?
+1) ADD INTO  
+2) INSERT INTO  
+3) PUT INTO  
+4) UPDATE  
+Antwort: 2
+
+4. Welches Schlüsselwort wird verwendet, um doppelte Ergebnisse zu vermeiden?
+1) DISTINCT  
+2) UNIQUE  
+3) ONLY  
+4) DIFFERENT  
+Antwort: 1
+
+5. Was ist der Zweck von WHERE?
+1) Zum Gruppieren von Ergebnissen  
+2) Zum Sortieren von Spalten  
+3) Zum Filtern von Ergebnissen  
+4) Zum Erstellen einer neuen Tabelle  
+Antwort: 3
+
+6. Wie aktualisiert man Daten in SQL?
+1) CHANGE  
+2) UPDATE  
+3) MODIFY  
+4) SET  
+Antwort: 2
+
+7. Wie löscht man eine Tabelle komplett?
+1) REMOVE TABLE  
+2) DELETE TABLE  
+3) DROP TABLE  
+4) DESTROY TABLE  
+Antwort: 3
+
+8. Was ist ein Primärschlüssel (Primary Key)?
+1) Eine doppelte Spalte  
+2) Eine leere Spalte  
+3) Ein eindeutiger Bezeichner  
+4) Ein Zeitstempel  
+Antwort: 3
+
+9. Welche Anweisung löscht alle Zeilen, aber nicht die Tabelle?
+1) DROP  
+2) ERASE  
+3) DELETE  
+4) REMOVE  
+Antwort: 3
+
+10. Wie nennt man das Kombinieren von Tabellen?
+1) Mix  
+2) Merge  
+3) Join  
+4) Link  
+Antwort: 3
+
+11. Welcher JOIN zeigt nur übereinstimmende Werte?
+1) LEFT JOIN  
+2) RIGHT JOIN  
+3) FULL JOIN  
+4) INNER JOIN  
+Antwort: 4
+
+12. Wie kann man Ergebnisse sortieren?
+1) ORDER BY  
+2) SORT BY  
+3) GROUP BY  
+4) ALIGN BY  
+Antwort: 1
+
+13. Was bewirkt GROUP BY?
+1) Sortiert Daten  
+2) Teilt Daten in Gruppen  
+3) Fügt Daten ein  
+4) Löscht Gruppen  
+Antwort: 2
+
+14. Wie nennt man eine Abfrage innerhalb einer Abfrage?
+1) Inner SELECT  
+2) Mini SELECT  
+3) Subquery  
+4) Secondary SELECT  
+Antwort: 3
+
+15. Welcher Datentyp speichert Text?
+1) INT  
+2) TEXT  
+3) FLOAT  
+4) CHAR  
+Antwort: 2
+
+16. Welche Funktion zählt Zeilen?
+1) TOTAL()  
+2) COUNT()  
+3) SUM()  
+4) ROWS()  
+Antwort: 2
+
+17. Was ist NULL in SQL?
+1) Eine leere Zeichenkette  
+2) Der Wert 0  
+3) Kein Wert  
+4) Ein Fehler  
+Antwort: 3
+
+18. Welche Funktion gibt den Durchschnitt zurück?
+1) TOTAL()  
+2) AVG()  
+3) MEAN()  
+4) AVERAGE()  
+Antwort: 2
+
+19. Wie benennt man eine Spalte um?
+1) NAME  
+2) ALIAS  
+3) AS  
+4) LABEL  
+Antwort: 3
+
+20. Was ist eine View?
+1) Eine neue Tabelle  
+2) Eine gespeicherte Abfrage  
+3) Eine Funktion  
+4) Eine Spalte  
+Antwort: 2
